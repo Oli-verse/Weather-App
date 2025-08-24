@@ -2,9 +2,8 @@ import React from 'react';
 
 function App() {
 
-  //const url = https://api.openweathermap.org/data/2.5/weather?q=Bacoor&appid=API KEY
+  //const API_KEY = process.env.REACT_APP_WEATHER_KEY;
 
-  
   return (
     <div className="App">
       <div className="container">
