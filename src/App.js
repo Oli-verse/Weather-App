@@ -2,8 +2,9 @@ import React from 'react';
 
 function App() {
 
-  //const url = API KEY + CITY NAME + UNITS + API KEY
+  //const url = https://api.openweathermap.org/data/2.5/weather?q=Bacoor&appid=API KEY
 
+  
   return (
     <div className="App">
       <div className="container">
