@@ -1,6 +1,6 @@
-# 🌦️ Bacoor City Weather App
+# 🌦️City Weather App
 
-A simple React.js web application that displays **real-time weather information** for **Bacoor City**.  
+A simple React.js web application that displays **real-time weather information**.  
 Powered by the [OpenWeatherMap API](https://openweathermap.org/api), this app shows the current weather, forecast, and additional details with a dynamic UI.
 
 ---
